@@ -29,3 +29,4 @@ MINLEN:75
 module unload trimmomatic
 
 #- FIN -----------------------------------------------------------------------#
+I made some edits...
